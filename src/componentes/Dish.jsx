@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function Header(){
+export default function Dish(){
     return(
         <div>
-            <h1>Platillos Tipicos</h1>
+            <h1>Platillos</h1>
         </div>
     )
 }
